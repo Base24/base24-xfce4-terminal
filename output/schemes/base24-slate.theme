@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 Slate
+ColorCursor=#42d3e8
+ColorForeground=#42d3e8
+ColorBackground=#212121
+TabActivityColor=#212121;#e1a7bf;#80d778;#c4c9bf;#254a49;#a380d3;#14ab9c;#02c4e0;#ffffff;#ffccd8;#bdffa8;#d0cbc9;#79afd2;#c4a7d8;#8bdee0;#e0e0e0
+ColorBold=#42d3e8
+ColorBoldUseDefault=FALSE

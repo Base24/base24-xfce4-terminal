@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 Material Lighter
+ColorCursor=#80CBC4
+ColorForeground=#80CBC4
+ColorBackground=#FAFAFA
+TabActivityColor=#E7EAEC;#FF5370;#91B859;#F76D47;#6182B8;#7C4DFF;#39ADB5;#80CBC4;#CCEAE7;#FF5370;#91B859;#FFB62C;#6182B8;#7C4DFF;#39ADB5;#FFFFFF
+ColorBold=#80CBC4
+ColorBoldUseDefault=FALSE

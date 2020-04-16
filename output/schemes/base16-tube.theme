@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 London Tube
+ColorCursor=#d9d8d8
+ColorForeground=#d9d8d8
+ColorBackground=#231f20
+TabActivityColor=#1c3f95;#ee2e24;#00853e;#f386a1;#009ddc;#98005d;#85cebc;#e7e7e8;#5a5758;#ee2e24;#00853e;#ffd204;#009ddc;#98005d;#85cebc;#ffffff
+ColorBold=#d9d8d8
+ColorBoldUseDefault=FALSE

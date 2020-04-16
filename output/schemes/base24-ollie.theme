@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 Ollie
+ColorCursor=#7e7789
+ColorForeground=#7e7789
+ColorBackground=#212024
+TabActivityColor=#000000;#ab2e30;#31ab60;#ab4200;#2c56ab;#af8427;#1fa5ab;#8a8dab;#5a3625;#ff3d48;#3bff99;#ff5e1e;#4487ff;#ffc21c;#1efaff;#5b6da7
+ColorBold=#7e7789
+ColorBoldUseDefault=FALSE

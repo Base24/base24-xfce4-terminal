@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 Red Planet
+ColorCursor=#a4998c
+ColorForeground=#a4998c
+ColorBackground=#222222
+TabActivityColor=#201f1f;#8c3432;#728271;#e8bf6a;#69809e;#896492;#5b8390;#b9aa99;#676767;#b55242;#869985;#ebeb91;#60827e;#de4873;#38add8;#d6bfb8
+ColorBold=#a4998c
+ColorBoldUseDefault=FALSE

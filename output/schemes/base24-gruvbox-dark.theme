@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 Gruvbox Dark
+ColorCursor=#91816c
+ColorForeground=#91816c
+ColorBackground=#1d1d1d
+TabActivityColor=#1d1d1d;#be0e17;#868715;#cc871a;#377274;#9f4b73;#568d57;#978771;#7f7060;#f63028;#a9b01d;#f7b024;#709585;#c76f89;#7db568;#e5d3a2
+ColorBold=#91816c
+ColorBoldUseDefault=FALSE

@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 Railscasts
+ColorCursor=#e6e1dc
+ColorForeground=#e6e1dc
+ColorBackground=#2b2b2b
+TabActivityColor=#272935;#da4939;#a5c261;#cc7833;#6d9cbe;#b6b3eb;#519f50;#f4f1ed;#3a4055;#da4939;#a5c261;#ffc66d;#6d9cbe;#b6b3eb;#519f50;#f9f7f3
+ColorBold=#e6e1dc
+ColorBoldUseDefault=FALSE

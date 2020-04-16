@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 Google Light
+ColorCursor=#373b41
+ColorForeground=#373b41
+ColorBackground=#ffffff
+TabActivityColor=#e0e0e0;#CC342B;#198844;#F96A38;#3971ED;#A36AC7;#3971ED;#282a2e;#c5c8c6;#CC342B;#198844;#FBA922;#3971ED;#A36AC7;#3971ED;#1d1f21
+ColorBold=#373b41
+ColorBoldUseDefault=FALSE

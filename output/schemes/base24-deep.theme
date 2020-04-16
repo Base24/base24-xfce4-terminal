@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 deep
+ColorCursor=#bcbcbc
+ColorForeground=#bcbcbc
+ColorBackground=#080808
+TabActivityColor=#000000;#d60005;#1cd815;#d9bc25;#5665fe;#af51d9;#4fd2d9;#dfdfdf;#535353;#fb0006;#21fe17;#fedc2b;#9fa8fe;#e099fe;#8cf9fe;#fffefe
+ColorBold=#bcbcbc
+ColorBoldUseDefault=FALSE

@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 Medallion
+ColorCursor=#aea578
+ColorForeground=#aea578
+ColorBackground=#1d1808
+TabActivityColor=#000000;#b54c00;#7c8a16;#d2bd25;#606baf;#8b5990;#906b25;#c9c199;#5e5118;#ff9148;#b1c93a;#ffe449;#abb8ff;#fe9fff;#ffbb51;#fed597
+ColorBold=#aea578
+ColorBoldUseDefault=FALSE

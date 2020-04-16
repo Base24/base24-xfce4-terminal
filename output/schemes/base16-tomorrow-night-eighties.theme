@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 Tomorrow Night
+ColorCursor=#cccccc
+ColorForeground=#cccccc
+ColorBackground=#2d2d2d
+TabActivityColor=#393939;#f2777a;#99cc99;#f99157;#6699cc;#cc99cc;#66cccc;#e0e0e0;#515151;#f2777a;#99cc99;#ffcc66;#6699cc;#cc99cc;#66cccc;#ffffff
+ColorBold=#cccccc
+ColorBoldUseDefault=FALSE

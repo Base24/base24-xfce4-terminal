@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 Solarized Dark Higher Contrast
+ColorCursor=#aec2ba
+ColorForeground=#aec2ba
+ColorBackground=#001e26
+TabActivityColor=#002731;#d01b24;#6bbe6c;#a57705;#2075c7;#c61b6e;#259185;#e9e2cb;#006388;#f4153b;#50ee84;#b17e28;#178dc7;#e14d8e;#00b29e;#fcf4dc
+ColorBold=#aec2ba
+ColorBoldUseDefault=FALSE

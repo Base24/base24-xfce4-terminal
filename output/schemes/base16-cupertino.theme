@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 Cupertino
+ColorCursor=#404040
+ColorForeground=#404040
+ColorBackground=#ffffff
+TabActivityColor=#c0c0c0;#c41a15;#007400;#eb8500;#0000ff;#a90d91;#318495;#404040;#c0c0c0;#c41a15;#007400;#826b28;#0000ff;#a90d91;#318495;#5e5e5e
+ColorBold=#404040
+ColorBoldUseDefault=FALSE

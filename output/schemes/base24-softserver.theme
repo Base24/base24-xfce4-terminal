@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 SoftServer
+ColorCursor=#8c9594
+ColorForeground=#8c9594
+ColorBackground=#242626
+TabActivityColor=#000000;#a16869;#99a569;#a29069;#6a8fa3;#6971a3;#6ba48f;#99a3a2;#666c6b;#dc5b5f;#bfde54;#deb35f;#62b1df;#5f6ede;#64e39c;#d1dfde
+ColorBold=#8c9594
+ColorBoldUseDefault=FALSE

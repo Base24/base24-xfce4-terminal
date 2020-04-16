@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 Shaman
+ColorCursor=#3d5053
+ColorForeground=#3d5053
+ColorBackground=#001014
+TabActivityColor=#012026;#b12f2c;#00a940;#5d8aa9;#449985;#00599c;#5c7e19;#405554;#374350;#ff4242;#2aea5e;#8dd3fd;#61d4b9;#1298ff;#98cf28;#58fad6
+ColorBold=#3d5053
+ColorBoldUseDefault=FALSE

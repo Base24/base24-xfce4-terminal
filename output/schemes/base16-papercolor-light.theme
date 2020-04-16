@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 PaperColor Light
+ColorCursor=#878787
+ColorForeground=#878787
+ColorBackground=#eeeeee
+TabActivityColor=#af0000;#bcbcbc;#8700af;#d70000;#d75f00;#005faf;#d75f00;#005f87;#008700;#bcbcbc;#8700af;#d70087;#d75f00;#005faf;#d75f00;#444444
+ColorBold=#878787
+ColorBoldUseDefault=FALSE

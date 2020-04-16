@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 AdventureTime
+ColorCursor=#cdc3bf
+ColorForeground=#cdc3bf
+ColorBackground=#1e1c44
+TabActivityColor=#050404;#bc0013;#49b117;#e6741d;#0f49c6;#665992;#6fa497;#f8dbc0;#4e7bbf;#fc5e59;#9dff6e;#efc11a;#1896c6;#9a5952;#c8f9f3;#f5f4fb
+ColorBold=#cdc3bf
+ColorBoldUseDefault=FALSE

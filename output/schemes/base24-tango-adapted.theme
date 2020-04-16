@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 Tango Adapted
+ColorCursor=#d0d4cb
+ColorForeground=#d0d4cb
+ColorBackground=#fffefe
+TabActivityColor=#000000;#ff0000;#59d500;#efca00;#00a1ff;#c17ecb;#00d0d6;#e6eae1;#8e928a;#ff0012;#93fe00;#fff021;#88c9ff;#e8a6e1;#00fdff;#f6f6f4
+ColorBold=#d0d4cb
+ColorBoldUseDefault=FALSE

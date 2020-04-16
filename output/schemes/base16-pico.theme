@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 Pico
+ColorCursor=#5f574f
+ColorForeground=#5f574f
+ColorBackground=#000000
+TabActivityColor=#1d2b53;#ff004d;#00e756;#ffa300;#83769c;#ff77a8;#29adff;#c2c3c7;#7e2553;#ff004d;#00e756;#fff024;#83769c;#ff77a8;#29adff;#fff1e8
+ColorBold=#5f574f
+ColorBoldUseDefault=FALSE

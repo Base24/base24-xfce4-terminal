@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 Violet Dark
+ColorCursor=#a7a59f
+ColorForeground=#a7a59f
+ColorBackground=#1b1d1f
+TabActivityColor=#56595c;#c94c22;#85981c;#b4881d;#2e8bce;#d13a82;#32a198;#c8c5bc;#45484b;#bd3612;#728903;#a57704;#2075c7;#c61b6e;#259185;#c8c5bd
+ColorBold=#a7a59f
+ColorBoldUseDefault=FALSE

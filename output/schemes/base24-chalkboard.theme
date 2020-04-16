@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 Chalkboard
+ColorCursor=#afafaf
+ColorForeground=#afafaf
+ColorBackground=#29262f
+TabActivityColor=#000000;#c37372;#72c373;#c2c372;#7372c3;#c372c2;#72c2c3;#d9d9d9;#323232;#dbaaaa;#aadbaa;#dadbaa;#aaaadb;#dbaada;#aadadb;#ffffff
+ColorBold=#afafaf
+ColorBoldUseDefault=FALSE

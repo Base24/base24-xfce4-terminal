@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 Marrakesh
+ColorCursor=#948e48
+ColorForeground=#948e48
+ColorBackground=#201602
+TabActivityColor=#302e00;#c35359;#18974e;#b36144;#477ca1;#8868b3;#75a738;#ccc37a;#5f5b17;#c35359;#18974e;#a88339;#477ca1;#8868b3;#75a738;#faf0a5
+ColorBold=#948e48
+ColorBoldUseDefault=FALSE

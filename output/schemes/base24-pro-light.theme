@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 Pro Light
+ColorCursor=#cccccc
+ColorForeground=#cccccc
+ColorBackground=#feffff
+TabActivityColor=#000000;#e4492b;#50d048;#c5c340;#3a75ff;#ec65e7;#4ed1dd;#dcdcdc;#9f9f9f;#ff6640;#61ee56;#f2f055;#0081ff;#ff7dfe;#60f6f8;#f1f1f1
+ColorBold=#cccccc
+ColorBoldUseDefault=FALSE

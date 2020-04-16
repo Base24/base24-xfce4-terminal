@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 Thayer Bright
+ColorCursor=#adada9
+ColorForeground=#adada9
+ColorBackground=#1b1d1e
+TabActivityColor=#1b1d1e;#f92672;#4df740;#f3fd21;#2656d6;#8c54fe;#37c8b4;#ccccc6;#505354;#ff5995;#b6e354;#feed6c;#3f78ff;#9e6ffe;#23ced4;#f8f8f2
+ColorBold=#adada9
+ColorBoldUseDefault=FALSE

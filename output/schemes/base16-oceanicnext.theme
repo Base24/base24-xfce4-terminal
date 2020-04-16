@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 OceanicNext
+ColorCursor=#C0C5CE
+ColorForeground=#C0C5CE
+ColorBackground=#1B2B34
+TabActivityColor=#343D46;#EC5f67;#99C794;#F99157;#6699CC;#C594C5;#5FB3B3;#CDD3DE;#4F5B66;#EC5f67;#99C794;#FAC863;#6699CC;#C594C5;#5FB3B3;#D8DEE9
+ColorBold=#C0C5CE
+ColorBoldUseDefault=FALSE

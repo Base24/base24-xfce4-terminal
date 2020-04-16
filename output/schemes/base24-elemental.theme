@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 Elemental
+ColorCursor=#756f68
+ColorForeground=#756f68
+ColorBackground=#21211c
+TabActivityColor=#3c3b30;#97280f;#479942;#7f7110;#497f7d;#7e4e2e;#387f58;#807974;#545444;#df502a;#60e06f;#d69827;#78d8d8;#cd7c53;#58d598;#fff1e8
+ColorBold=#756f68
+ColorBoldUseDefault=FALSE

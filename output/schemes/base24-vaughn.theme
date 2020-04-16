@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 Vaughn
+ColorCursor=#709080
+ColorForeground=#709080
+ColorBackground=#25234e
+TabActivityColor=#24234f;#705050;#60b48a;#dfaf8f;#5555ff;#f08cc3;#8cd0d3;#709080;#709080;#dca3a3;#60b48a;#f0dfaf;#5555ff;#ec93d3;#93e0e3;#ffffff
+ColorBold=#709080
+ColorBoldUseDefault=FALSE

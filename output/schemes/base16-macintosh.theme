@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 Macintosh
+ColorCursor=#c0c0c0
+ColorForeground=#c0c0c0
+ColorBackground=#000000
+TabActivityColor=#404040;#dd0907;#1fb714;#ff6403;#0000d3;#4700a5;#02abea;#c0c0c0;#404040;#dd0907;#1fb714;#fbf305;#0000d3;#4700a5;#02abea;#ffffff
+ColorBold=#c0c0c0
+ColorBoldUseDefault=FALSE

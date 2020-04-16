@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 BlulocoLight
+ColorCursor=#38383a
+ColorForeground=#38383a
+ColorBackground=#f7f7f7
+TabActivityColor=#cbccd4;#c80d41;#208839;#d44d16;#1d44dd;#6d1bed;#1e4d7a;#000000;#dddee8;#fb496d;#34b253;#b79326;#1085d9;#c00cb2;#5a7fac;#1c1d21
+ColorBold=#38383a
+ColorBoldUseDefault=FALSE

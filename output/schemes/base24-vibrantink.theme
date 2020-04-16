@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 VibrantInk
+ColorCursor=#cdcdcd
+ColorForeground=#cdcdcd
+ColorBackground=#000000
+TabActivityColor=#878787;#ff6600;#ccff04;#ffcc00;#44b3cc;#9933cc;#44b3cc;#f5f5f5;#555555;#ff0000;#00ff00;#ffff00;#0000ff;#ff00ff;#00ffff;#e5e5e5
+ColorBold=#cdcdcd
+ColorBoldUseDefault=FALSE

@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 Banana Blueberry
+ColorCursor=#c6c9cd
+ColorForeground=#c6c9cd
+ColorBackground=#191322
+TabActivityColor=#16141e;#ff6a7e;#00bc9b;#e5c62f;#22e8df;#dc3969;#55b6c1;#f1f1f1;#485161;#fd9ea1;#97c378;#f9e46a;#91fff3;#da70d5;#bcf2fe;#feffff
+ColorBold=#c6c9cd
+ColorBoldUseDefault=FALSE

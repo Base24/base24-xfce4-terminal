@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 Cyberdyne
+ColorCursor=#c0c0c0
+ColorForeground=#c0c0c0
+ColorBackground=#151144
+TabActivityColor=#080808;#ff8272;#00c172;#d2a700;#0071cf;#ff8ffd;#6bffdc;#f1f1f1;#2d2d2d;#ffc4bd;#d6fcb9;#fefdd5;#c1e3fe;#ffb1fe;#e5e6fe;#feffff
+ColorBold=#c0c0c0
+ColorBoldUseDefault=FALSE

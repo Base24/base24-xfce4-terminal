@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 IR Black
+ColorCursor=#b5b3aa
+ColorForeground=#b5b3aa
+ColorBackground=#000000
+TabActivityColor=#242422;#ff6c60;#a8ff60;#e9c062;#96cbfe;#ff73fd;#c6c5fe;#d9d7cc;#484844;#ff6c60;#a8ff60;#ffffb6;#96cbfe;#ff73fd;#c6c5fe;#fdfbee
+ColorBold=#b5b3aa
+ColorBoldUseDefault=FALSE

@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 PaulMillr
+ColorCursor=#a5a5a5
+ColorForeground=#a5a5a5
+ColorBackground=#000000
+TabActivityColor=#2a2a2a;#ff0000;#79ff0f;#e7bf00;#386bd7;#b349be;#66ccff;#bbbbbb;#666666;#ff0080;#66ff66;#f3d64e;#709aed;#db67e6;#79dff2;#ffffff
+ColorBold=#a5a5a5
+ColorBoldUseDefault=FALSE

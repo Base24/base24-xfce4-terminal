@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 Spiderman
+ColorCursor=#d3d3cd
+ColorForeground=#d3d3cd
+ColorBackground=#1b1d1e
+TabActivityColor=#1b1d1e;#e60712;#e22828;#e24655;#2b3fff;#2435db;#3255ff;#fffef6;#505354;#ff0325;#ff3238;#fe3935;#1d4fff;#737bff;#6083ff;#fefff9
+ColorBold=#d3d3cd
+ColorBoldUseDefault=FALSE

@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 Horizon Light
+ColorCursor=#403C3D
+ColorForeground=#403C3D
+ColorBackground=#FDF0ED
+TabActivityColor=#FADAD1;#E95678;#29D398;#F9CEC3;#26BBD9;#EE64AC;#59E1E3;#302C2D;#F9CBBE;#E95678;#29D398;#FADAD1;#26BBD9;#EE64AC;#59E1E3;#201C1D
+ColorBold=#403C3D
+ColorBoldUseDefault=FALSE

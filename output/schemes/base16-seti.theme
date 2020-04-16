@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 Seti UI
+ColorCursor=#d6d6d6
+ColorForeground=#d6d6d6
+ColorBackground=#151718
+TabActivityColor=#282a2b;#Cd3f45;#9fca56;#db7b55;#55b5db;#a074c4;#55dbbe;#eeeeee;#3B758C;#Cd3f45;#9fca56;#e6cd69;#55b5db;#a074c4;#55dbbe;#ffffff
+ColorBold=#d6d6d6
+ColorBoldUseDefault=FALSE

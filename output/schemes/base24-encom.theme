@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 ENCOM
+ColorCursor=#a1a1a1
+ColorForeground=#a1a1a1
+ColorBackground=#000000
+TabActivityColor=#000000;#9f0000;#008b00;#ffcf00;#0081ff;#bc00ca;#008b8b;#bbbbbb;#555555;#ff0000;#00ee00;#ffff00;#0000ff;#ff00ff;#00cdcd;#ffffff
+ColorBold=#a1a1a1
+ColorBoldUseDefault=FALSE

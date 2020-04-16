@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 Laser
+ColorCursor=#d8d8d8
+ColorForeground=#d8d8d8
+ColorBackground=#030d18
+TabActivityColor=#616161;#ff8272;#b4fa72;#09b4bd;#fed300;#ff8ffd;#d0d1fe;#f1f1f1;#8e8e8e;#ffc4bd;#d6fcb9;#fefdd5;#f92883;#ffb1fe;#e5e6fe;#feffff
+ColorBold=#d8d8d8
+ColorBoldUseDefault=FALSE

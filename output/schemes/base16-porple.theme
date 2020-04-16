@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 Porple
+ColorCursor=#d8d8d8
+ColorForeground=#d8d8d8
+ColorBackground=#292c36
+TabActivityColor=#333344;#f84547;#95c76f;#d28e5d;#8485ce;#b74989;#64878f;#e8e8e8;#474160;#f84547;#95c76f;#efa16b;#8485ce;#b74989;#64878f;#f8f8f8
+ColorBold=#d8d8d8
+ColorBoldUseDefault=FALSE

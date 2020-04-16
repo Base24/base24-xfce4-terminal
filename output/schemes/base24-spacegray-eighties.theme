@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 SpaceGray Eighties
+ColorCursor=#c7c6c2
+ColorForeground=#c7c6c2
+ColorBackground=#212121
+TabActivityColor=#15171c;#ec5f67;#80a763;#fdc253;#5485c0;#bf83c0;#57c2c0;#eeece7;#555555;#ff6973;#93d393;#ffd156;#4d83d0;#ff55ff;#83e8e4;#ffffff
+ColorBold=#c7c6c2
+ColorBoldUseDefault=FALSE

@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 Materia
+ColorCursor=#CDD3DE
+ColorForeground=#CDD3DE
+ColorBackground=#263238
+TabActivityColor=#2C393F;#EC5F67;#8BD649;#EA9560;#89DDFF;#82AAFF;#80CBC4;#D5DBE5;#37474F;#EC5F67;#8BD649;#FFCC00;#89DDFF;#82AAFF;#80CBC4;#FFFFFF
+ColorBold=#CDD3DE
+ColorBoldUseDefault=FALSE

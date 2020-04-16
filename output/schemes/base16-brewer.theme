@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 Brewer
+ColorCursor=#b7b8b9
+ColorForeground=#b7b8b9
+ColorBackground=#0c0d0e
+TabActivityColor=#2e2f30;#e31a1c;#31a354;#e6550d;#3182bd;#756bb1;#80b1d3;#dadbdc;#515253;#e31a1c;#31a354;#dca060;#3182bd;#756bb1;#80b1d3;#fcfdfe
+ColorBold=#b7b8b9
+ColorBoldUseDefault=FALSE

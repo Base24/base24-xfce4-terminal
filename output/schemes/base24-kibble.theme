@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 Kibble
+ColorCursor=#c0b3c0
+ColorForeground=#c0b3c0
+ColorBackground=#0e100a
+TabActivityColor=#4d4d4d;#c70031;#29cf13;#d8e30e;#3449d1;#8400ff;#0798ab;#e2d1e3;#5a5a5a;#f01578;#6ce05c;#f3f79e;#97a4f7;#c495f0;#68f2e0;#ffffff
+ColorBold=#c0b3c0
+ColorBoldUseDefault=FALSE

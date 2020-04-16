@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 Unikitty
+ColorCursor=#b9b1b8
+ColorForeground=#b9b1b8
+ColorBackground=#ff8cd9
+TabActivityColor=#0c0c0c;#a80f20;#bafc8b;#eedf4b;#145fcd;#ff36a2;#6bd0bc;#e1d6e0;#424242;#d81329;#d2ffaf;#ffee50;#0074ea;#fdd5e5;#79ebd5;#fff2fd
+ColorBold=#b9b1b8
+ColorBoldUseDefault=FALSE

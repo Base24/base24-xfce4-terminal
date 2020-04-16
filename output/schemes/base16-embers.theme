@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 Embers
+ColorCursor=#A39A90
+ColorForeground=#A39A90
+ColorBackground=#16130F
+TabActivityColor=#2C2620;#826D57;#57826D;#828257;#6D5782;#82576D;#576D82;#BEB6AE;#433B32;#826D57;#57826D;#6D8257;#6D5782;#82576D;#576D82;#DBD6D1
+ColorBold=#A39A90
+ColorBoldUseDefault=FALSE

@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 Spacemacs
+ColorCursor=#a3a3a3
+ColorForeground=#a3a3a3
+ColorBackground=#1f2022
+TabActivityColor=#282828;#f2241f;#67b11d;#ffa500;#4f97d7;#a31db1;#2d9574;#e8e8e8;#444155;#f2241f;#67b11d;#b1951d;#4f97d7;#a31db1;#2d9574;#f8f8f8
+ColorBold=#a3a3a3
+ColorBoldUseDefault=FALSE

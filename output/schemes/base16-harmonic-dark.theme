@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 Harmonic16 Dark
+ColorCursor=#cbd6e2
+ColorForeground=#cbd6e2
+ColorBackground=#0b1c2c
+TabActivityColor=#223b54;#bf8b56;#56bf8b;#bfbf56;#8b56bf;#bf568b;#568bbf;#e5ebf1;#405c79;#bf8b56;#56bf8b;#8bbf56;#8b56bf;#bf568b;#568bbf;#f7f9fb
+ColorBold=#cbd6e2
+ColorBoldUseDefault=FALSE

@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 OneHalfLight
+ColorCursor=#cfd0d2
+ColorForeground=#cfd0d2
+ColorBackground=#fafafa
+TabActivityColor=#373942;#e45649;#4fa14f;#c08400;#0084bc;#a625a4;#0996b3;#fafafa;#4f525d;#df6c75;#98c379;#e4c07a;#61afef;#c577dd;#56b5c1;#ffffff
+ColorBold=#cfd0d2
+ColorBoldUseDefault=FALSE

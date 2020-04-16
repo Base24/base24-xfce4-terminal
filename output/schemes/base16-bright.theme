@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 Bright
+ColorCursor=#e0e0e0
+ColorForeground=#e0e0e0
+ColorBackground=#000000
+TabActivityColor=#303030;#fb0120;#a1c659;#fc6d24;#6fb3d2;#d381c3;#76c7b7;#f5f5f5;#505050;#fb0120;#a1c659;#fda331;#6fb3d2;#d381c3;#76c7b7;#ffffff
+ColorBold=#e0e0e0
+ColorBoldUseDefault=FALSE

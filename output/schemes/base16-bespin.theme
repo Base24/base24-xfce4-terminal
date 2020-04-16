@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 Bespin
+ColorCursor=#8a8986
+ColorForeground=#8a8986
+ColorBackground=#28211c
+TabActivityColor=#36312e;#cf6a4c;#54be0d;#cf7d34;#5ea6ea;#9b859d;#afc4db;#9d9b97;#5e5d5c;#cf6a4c;#54be0d;#f9ee98;#5ea6ea;#9b859d;#afc4db;#baae9e
+ColorBold=#8a8986
+ColorBoldUseDefault=FALSE

@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 Argonaut
+ColorCursor=#d0d0d0
+ColorForeground=#d0d0d0
+ColorBackground=#0d0f18
+TabActivityColor=#222222;#ff000f;#8ce00a;#ffb900;#008df8;#6c43a5;#00d7eb;#ffffff;#444444;#ff273f;#abe05a;#ffd141;#0092ff;#9a5feb;#67ffef;#ffffff
+ColorBold=#d0d0d0
+ColorBoldUseDefault=FALSE

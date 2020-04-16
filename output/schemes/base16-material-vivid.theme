@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 Material Vivid
+ColorCursor=#80868b
+ColorForeground=#80868b
+ColorBackground=#202124
+TabActivityColor=#27292c;#f44336;#00e676;#ff9800;#2196f3;#673ab7;#00bcd4;#9e9e9e;#323639;#f44336;#00e676;#ffeb3b;#2196f3;#673ab7;#00bcd4;#ffffff
+ColorBold=#80868b
+ColorBoldUseDefault=FALSE

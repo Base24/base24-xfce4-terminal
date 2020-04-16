@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 WildCherry
+ColorCursor=#bfe1d8
+ColorForeground=#bfe1d8
+ColorBackground=#1f1626
+TabActivityColor=#000506;#d94085;#2ab250;#ffd16f;#883cdc;#ececec;#c1b8b7;#fff8dd;#009cc9;#da6bab;#f4dba5;#eac066;#2f8bb9;#ae636b;#ff919d;#e4838d
+ColorBold=#bfe1d8
+ColorBoldUseDefault=FALSE

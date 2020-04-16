@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 Solarized Dark
+ColorCursor=#93a1a1
+ColorForeground=#93a1a1
+ColorBackground=#002b36
+TabActivityColor=#073642;#dc322f;#859900;#cb4b16;#268bd2;#6c71c4;#2aa198;#eee8d5;#586e75;#dc322f;#859900;#b58900;#268bd2;#6c71c4;#2aa198;#fdf6e3
+ColorBold=#93a1a1
+ColorBoldUseDefault=FALSE

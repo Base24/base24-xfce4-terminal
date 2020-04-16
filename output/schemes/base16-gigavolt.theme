@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 Gigavolt
+ColorCursor=#e9e7e1
+ColorForeground=#e9e7e1
+ColorBackground=#202126
+TabActivityColor=#2d303d;#ff661a;#f2e6a9;#19f988;#40bfff;#ae94f9;#fb6acb;#eff0f9;#5a576e;#ff661a;#f2e6a9;#ffdc2d;#40bfff;#ae94f9;#fb6acb;#f2fbff
+ColorBold=#e9e7e1
+ColorBoldUseDefault=FALSE

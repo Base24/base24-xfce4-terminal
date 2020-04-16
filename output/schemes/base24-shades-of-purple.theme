@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 shades-of-purple
+ColorCursor=#afafaf
+ColorForeground=#afafaf
+ColorBackground=#1e1d40
+TabActivityColor=#000000;#d90429;#3ad900;#ffe700;#6943ff;#ff2b70;#00c5c7;#c7c7c7;#676767;#f9291b;#42d425;#f1d000;#6871ff;#ff76ff;#79e7fa;#feffff
+ColorBold=#afafaf
+ColorBoldUseDefault=FALSE

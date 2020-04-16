@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 Monokai Vivid
+ColorCursor=#dfdfdf
+ColorForeground=#dfdfdf
+ColorBackground=#121212
+TabActivityColor=#121212;#fa2834;#97e123;#fef20a;#0442fe;#f800f8;#01b6ed;#fffefe;#828282;#f5669c;#b0e05e;#fef26c;#0442fe;#f200f5;#50cdfe;#ffffff
+ColorBold=#dfdfdf
+ColorBoldUseDefault=FALSE

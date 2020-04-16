@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 Material
+ColorCursor=#EEFFFF
+ColorForeground=#EEFFFF
+ColorBackground=#263238
+TabActivityColor=#2E3C43;#F07178;#C3E88D;#F78C6C;#82AAFF;#C792EA;#89DDFF;#EEFFFF;#314549;#F07178;#C3E88D;#FFCB6B;#82AAFF;#C792EA;#89DDFF;#FFFFFF
+ColorBold=#EEFFFF
+ColorBoldUseDefault=FALSE

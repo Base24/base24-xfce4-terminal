@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 Molokai
+ColorCursor=#a1a1a1
+ColorForeground=#a1a1a1
+ColorBackground=#121212
+TabActivityColor=#121212;#fa2573;#97e123;#dfd460;#0f7fcf;#8700ff;#42a7cf;#bbbbbb;#555555;#f5669c;#b0e05e;#fef26c;#00afff;#af87ff;#50cdfe;#ffffff
+ColorBold=#a1a1a1
+ColorBoldUseDefault=FALSE

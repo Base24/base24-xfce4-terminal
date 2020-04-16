@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 Spacedust
+ColorCursor=#cdc7a6
+ColorForeground=#cdc7a6
+ColorBackground=#0a1e24
+TabActivityColor=#6e5246;#e35a00;#5cab96;#e3cd7b;#0e548b;#e35a00;#06afc7;#f0f1ce;#674c31;#ff8a39;#adcab8;#ffc777;#67a0cd;#ff8a39;#83a6b3;#fefff0
+ColorBold=#cdc7a6
+ColorBoldUseDefault=FALSE

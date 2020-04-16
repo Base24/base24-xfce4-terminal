@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 Edge Light
+ColorCursor=#5e646f
+ColorForeground=#5e646f
+ColorBackground=#fafafa
+TabActivityColor=#7c9f4b;#db7070;#7c9f4b;#db7070;#6587bf;#b870ce;#509c93;#b870ce;#d69822;#db7070;#7c9f4b;#d69822;#6587bf;#b870ce;#509c93;#5e646f
+ColorBold=#5e646f
+ColorBoldUseDefault=FALSE

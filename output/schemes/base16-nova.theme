@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 Nova
+ColorCursor=#C5D4DD
+ColorForeground=#C5D4DD
+ColorBackground=#3C4C55
+TabActivityColor=#556873;#83AFE5;#7FC1CA;#7FC1CA;#83AFE5;#9A93E1;#F2C38F;#899BA6;#6A7D89;#83AFE5;#7FC1CA;#A8CE93;#83AFE5;#9A93E1;#F2C38F;#556873
+ColorBold=#C5D4DD
+ColorBoldUseDefault=FALSE

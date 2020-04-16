@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 idleToes
+ColorCursor=#c7c7c5
+ColorForeground=#c7c7c5
+ColorBackground=#323232
+TabActivityColor=#323232;#d25252;#7fe173;#ffc66d;#4098ff;#f57fff;#bed6ff;#eeeeec;#535353;#f07070;#9dff90;#ffe48b;#5eb7f7;#ff9dff;#dcf4ff;#ffffff
+ColorBold=#c7c7c5
+ColorBoldUseDefault=FALSE

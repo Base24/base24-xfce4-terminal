@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 Apathy
+ColorCursor=#81B5AC
+ColorForeground=#81B5AC
+ColorBackground=#031A16
+TabActivityColor=#0B342D;#3E9688;#883E96;#3E7996;#96883E;#4C963E;#963E4C;#A7CEC8;#184E45;#3E9688;#883E96;#3E4C96;#96883E;#4C963E;#963E4C;#D2E7E4
+ColorBold=#81B5AC
+ColorBoldUseDefault=FALSE

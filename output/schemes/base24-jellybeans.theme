@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 Jellybeans
+ColorCursor=#d5d5d5
+ColorForeground=#d5d5d5
+ColorBackground=#121212
+TabActivityColor=#929292;#e27373;#93b979;#ffba7b;#97bedc;#e1c0fa;#00988e;#dedede;#bdbdbd;#ffa1a1;#bddeab;#ffdca0;#b1d8f6;#fbdaff;#1ab2a8;#ffffff
+ColorBold=#d5d5d5
+ColorBoldUseDefault=FALSE

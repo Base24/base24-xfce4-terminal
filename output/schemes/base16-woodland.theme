@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 Woodland
+ColorCursor=#cabcb1
+ColorForeground=#cabcb1
+ColorBackground=#231e18
+TabActivityColor=#302b25;#d35c5c;#b7ba53;#ca7f32;#88a4d3;#bb90e2;#6eb958;#d7c8bc;#48413a;#d35c5c;#b7ba53;#e0ac16;#88a4d3;#bb90e2;#6eb958;#e4d4c8
+ColorBold=#cabcb1
+ColorBoldUseDefault=FALSE

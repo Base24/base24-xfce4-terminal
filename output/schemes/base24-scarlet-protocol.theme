@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 Scarlet Protocol
+ColorCursor=#afafaf
+ColorForeground=#afafaf
+ColorBackground=#1b153c
+TabActivityColor=#101116;#ff0051;#00dc84;#faf945;#0271b6;#c930c7;#00c5c7;#c7c7c7;#676767;#ff6d67;#5ff967;#fefb67;#6871ff;#bc35eb;#5ffdff;#feffff
+ColorBold=#afafaf
+ColorBoldUseDefault=FALSE

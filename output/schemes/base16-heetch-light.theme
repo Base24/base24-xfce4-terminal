@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 Heetch Light
+ColorCursor=#5a496e
+ColorForeground=#5a496e
+ColorBackground=#feffff
+TabActivityColor=#392551;#27d9d5;#f80059;#bdb6c5;#47f9f5;#bd0152;#c33678;#470546;#7b6d8b;#27d9d5;#f80059;#5ba2b6;#47f9f5;#bd0152;#c33678;#190134
+ColorBold=#5a496e
+ColorBoldUseDefault=FALSE

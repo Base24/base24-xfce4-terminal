@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 Urple
+ColorCursor=#7c677e
+ColorForeground=#7c677e
+ColorBackground=#1b1b23
+TabActivityColor=#000000;#af425b;#37a315;#ac5b41;#554d9a;#6c3ba1;#808080;#87799c;#5c3125;#ff6387;#28e51f;#f08061;#8579ed;#a05dee;#eaeaea;#bfa3ff
+ColorBold=#7c677e
+ColorBoldUseDefault=FALSE

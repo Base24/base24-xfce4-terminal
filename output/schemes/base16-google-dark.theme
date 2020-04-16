@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 Google Dark
+ColorCursor=#c5c8c6
+ColorForeground=#c5c8c6
+ColorBackground=#1d1f21
+TabActivityColor=#282a2e;#CC342B;#198844;#F96A38;#3971ED;#A36AC7;#3971ED;#e0e0e0;#373b41;#CC342B;#198844;#FBA922;#3971ED;#A36AC7;#3971ED;#ffffff
+ColorBold=#c5c8c6
+ColorBoldUseDefault=FALSE

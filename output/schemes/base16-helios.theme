@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 Helios
+ColorCursor=#d5d5d5
+ColorForeground=#d5d5d5
+ColorBackground=#1d2021
+TabActivityColor=#383c3e;#d72638;#88b92d;#eb8413;#1e8bac;#be4264;#1ba595;#dddddd;#53585b;#d72638;#88b92d;#f19d1a;#1e8bac;#be4264;#1ba595;#e5e5e5
+ColorBold=#d5d5d5
+ColorBoldUseDefault=FALSE

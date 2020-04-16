@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 Dracula
+ColorCursor=#e9e9f4
+ColorForeground=#e9e9f4
+ColorBackground=#282936
+TabActivityColor=#3a3c4e;#ea51b2;#ebff87;#b45bcf;#62d6e8;#b45bcf;#a1efe4;#f1f2f8;#4d4f68;#ea51b2;#ebff87;#00f769;#62d6e8;#b45bcf;#a1efe4;#f7f7fb
+ColorBold=#e9e9f4
+ColorBoldUseDefault=FALSE

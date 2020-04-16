@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 AlienBlood
+ColorCursor=#5a6f5c
+ColorForeground=#5a6f5c
+ColorBackground=#0f160f
+TabActivityColor=#112615;#7f2b26;#2f7e25;#707f23;#2f697f;#47577e;#317f76;#647d75;#3c4711;#df8008;#18e000;#bde000;#00a9df;#0058df;#00dfc3;#73f990
+ColorBold=#5a6f5c
+ColorBoldUseDefault=FALSE

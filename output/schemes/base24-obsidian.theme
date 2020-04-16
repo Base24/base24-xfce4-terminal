@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 Obsidian
+ColorCursor=#a1a1a1
+ColorForeground=#a1a1a1
+ColorBackground=#273032
+TabActivityColor=#000000;#a50001;#00bb00;#fecc22;#399bda;#bb00bb;#00bbbb;#bbbbbb;#555555;#ff0003;#92c763;#fef773;#a0d6ff;#ff55ff;#55ffff;#ffffff
+ColorBold=#a1a1a1
+ColorBoldUseDefault=FALSE

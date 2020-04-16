@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 CLRS
+ColorCursor=#9a9b9a
+ColorForeground=#9a9b9a
+ColorBackground=#ffffff
+TabActivityColor=#000000;#f72729;#32895c;#f96f1c;#125ccf;#9f00bc;#32c2c0;#b2b2b2;#545753;#fb0416;#2cc631;#fcd627;#156ffe;#e800b0;#39d5ce;#ededec
+ColorBold=#9a9b9a
+ColorBoldUseDefault=FALSE

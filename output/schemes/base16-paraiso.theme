@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 Paraiso
+ColorCursor=#a39e9b
+ColorForeground=#a39e9b
+ColorBackground=#2f1e2e
+TabActivityColor=#41323f;#ef6155;#48b685;#f99b15;#06b6ef;#815ba4;#5bc4bf;#b9b6b0;#4f424c;#ef6155;#48b685;#fec418;#06b6ef;#815ba4;#5bc4bf;#e7e9db
+ColorBold=#a39e9b
+ColorBoldUseDefault=FALSE

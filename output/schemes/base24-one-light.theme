@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 One Light
+ColorCursor=#383a42
+ColorForeground=#383a42
+ColorBackground=#e7e7e9
+TabActivityColor=#dfdfe1;#ca1243;#50a14f;#c18401;#4078f2;#a626a4;#0184bc;#202227;#cacace;#ec2258;#6db76c;#f4a701;#709af5;#d02fcd;#01a7ef;#090a0b
+ColorBold=#383a42
+ColorBoldUseDefault=FALSE

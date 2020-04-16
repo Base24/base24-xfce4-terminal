@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 Material Darker
+ColorCursor=#EEFFFF
+ColorForeground=#EEFFFF
+ColorBackground=#212121
+TabActivityColor=#303030;#F07178;#C3E88D;#F78C6C;#82AAFF;#C792EA;#89DDFF;#EEFFFF;#353535;#F07178;#C3E88D;#FFCB6B;#82AAFF;#C792EA;#89DDFF;#FFFFFF
+ColorBold=#EEFFFF
+ColorBoldUseDefault=FALSE

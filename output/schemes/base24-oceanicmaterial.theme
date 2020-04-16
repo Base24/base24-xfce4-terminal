@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 OceanicMaterial
+ColorCursor=#989898
+ColorForeground=#989898
+ColorBackground=#1c262b
+TabActivityColor=#000000;#ee2a29;#3fa33f;#fee92e;#1d80ef;#8800a0;#16aec9;#a4a4a4;#767676;#dc5b60;#70be71;#fef063;#53a4f3;#a94dbb;#42c6d9;#fffefe
+ColorBold=#989898
+ColorBoldUseDefault=FALSE

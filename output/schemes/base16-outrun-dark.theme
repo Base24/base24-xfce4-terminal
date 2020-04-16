@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 Outrun Dark
+ColorCursor=#D0D0FA
+ColorForeground=#D0D0FA
+ColorBackground=#00002A
+TabActivityColor=#20204A;#FF4242;#59F176;#FC8D28;#66B0FF;#F10596;#0EF0F0;#E0E0FF;#30305A;#FF4242;#59F176;#F3E877;#66B0FF;#F10596;#0EF0F0;#F5F5FF
+ColorBold=#D0D0FA
+ColorBoldUseDefault=FALSE

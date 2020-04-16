@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 Fideloper
+ColorCursor=#b1b1a3
+ColorForeground=#b1b1a3
+ColorBackground=#282f32
+TabActivityColor=#282f32;#ca1d2c;#edb7ab;#b7aa9a;#2e78c1;#c0226e;#309185;#e9e2cd;#092027;#d35f5a;#d35f5a;#a86571;#7c84c4;#5b5db2;#81908f;#fcf4de
+ColorBold=#b1b1a3
+ColorBoldUseDefault=FALSE

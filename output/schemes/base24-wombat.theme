@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 Wombat
+ColorCursor=#b2afa6
+ColorForeground=#b2afa6
+ColorBackground=#171717
+TabActivityColor=#000000;#ff605a;#b1e869;#ead89c;#5da9f6;#e86aff;#82fff6;#ded9ce;#313131;#f58b7f;#dcf88f;#eee5b2;#a5c7ff;#ddaaff;#b6fff9;#fefffe
+ColorBold=#b2afa6
+ColorBoldUseDefault=FALSE

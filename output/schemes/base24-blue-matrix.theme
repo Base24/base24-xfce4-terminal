@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 Blue Matrix
+ColorCursor=#afafaf
+ColorForeground=#afafaf
+ColorBackground=#0f1115
+TabActivityColor=#101116;#ff567f;#00ff9b;#fefc57;#00b0fe;#d47bfe;#75c1fe;#c7c7c7;#676767;#ff6d67;#5ff967;#fefb67;#6871ff;#d582eb;#5ffdff;#feffff
+ColorBold=#afafaf
+ColorBoldUseDefault=FALSE

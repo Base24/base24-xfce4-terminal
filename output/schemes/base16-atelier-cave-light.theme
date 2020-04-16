@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 Atelier Cave Light
+ColorCursor=#585260
+ColorForeground=#585260
+ColorBackground=#efecf4
+TabActivityColor=#e2dfe7;#be4678;#2a9292;#aa573c;#576ddb;#955ae7;#398bc6;#26232a;#8b8792;#be4678;#2a9292;#a06e3b;#576ddb;#955ae7;#398bc6;#19171c
+ColorBold=#585260
+ColorBoldUseDefault=FALSE

@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 Sandcastle
+ColorCursor=#a89984
+ColorForeground=#a89984
+ColorBackground=#282c34
+TabActivityColor=#2c323b;#83a598;#528b8b;#a07e3b;#83a598;#d75f5f;#83a598;#d5c4a1;#3e4451;#83a598;#528b8b;#a07e3b;#83a598;#d75f5f;#83a598;#fdf4c1
+ColorBold=#a89984
+ColorBoldUseDefault=FALSE

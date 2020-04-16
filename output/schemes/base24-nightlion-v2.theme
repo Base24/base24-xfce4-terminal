@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 NightLion v2
+ColorCursor=#a1a1a1
+ColorForeground=#a1a1a1
+ColorBackground=#171717
+TabActivityColor=#4c4c4c;#bb0000;#03f622;#f2f067;#63d0f0;#ce6fda;#00d9df;#bbbbbb;#555555;#ff5555;#7df61c;#ffff55;#62cae7;#ff9af5;#00ccd7;#ffffff
+ColorBold=#a1a1a1
+ColorBoldUseDefault=FALSE

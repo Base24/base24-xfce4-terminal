@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 coffee_theme
+ColorCursor=#afafaf
+ColorForeground=#afafaf
+ColorBackground=#f5deb3
+TabActivityColor=#000000;#c91b00;#00c200;#c7c400;#0225c7;#c930c7;#00c5c7;#c7c7c7;#676767;#ff6d67;#5ff967;#fefb67;#6871ff;#ff76ff;#5ffdff;#feffff
+ColorBold=#afafaf
+ColorBoldUseDefault=FALSE

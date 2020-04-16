@@ -1,0 +1,8 @@
+[Scheme]
+Name=Base24 Atlas
+ColorCursor=#a1a19a
+ColorForeground=#a1a19a
+ColorBackground=#002635
+TabActivityColor=#00384d;#ff5a67;#7fc06e;#f08e48;#5dd7b9;#9a70a4;#14747e;#e6e6dc;#517F8D;#ff5a67;#7fc06e;#ffcc1b;#5dd7b9;#9a70a4;#14747e;#fafaf8
+ColorBold=#a1a19a
+ColorBoldUseDefault=FALSE
